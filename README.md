@@ -67,7 +67,7 @@ Se están evaluando tecnologías de comunicación, almacenamiento, diseño de la
 
 ---
 
-## 🔭 Próximas Fases del Proyecto
+## Próximas Fases del Proyecto
 
 1. **Diseño de hardware** (PCB, integración de sensores, chasis)
 2. **Desarrollo de firmware** (lectura de sensores, envío LoRa, almacenamiento)
@@ -113,8 +113,6 @@ Este proyecto está bajo la licencia MIT. Consulta el archivo `LICENSE` para má
 ---
 
 ## Estado del Proyecto
-
-![Progreso](https://progress-bar.dev/10/?title=Estado%20inicial)
 
 **Última actualización:** Junio 2025  
 **Estado actual:** Planificación y definición técnica  
