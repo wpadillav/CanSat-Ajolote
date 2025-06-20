@@ -117,4 +117,3 @@ Este proyecto está bajo la licencia MIT. Consulta el archivo `LICENSE` para má
 **Última actualización:** Junio 2025  
 **Estado actual:** Planificación y definición técnica  
 **Siguiente hito:** Integración de sensores y pruebas con LoRa
-```
