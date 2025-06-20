@@ -26,7 +26,7 @@ Nos comprometemos a crear un entorno seguro, inclusivo y respetuoso para todos l
 Las violaciones de este código pueden ser reportadas de forma confidencial al responsable del proyecto:
 
 **Responsable:** William Enrique Padilla Vivero  
-**Correo de contacto:** [tu-email@uniminuto.edu]  
+**Correo de contacto:** willipadilla@proton.me  
 
 Los casos serán tratados con seriedad y confidencialidad.
 
