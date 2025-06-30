@@ -17,11 +17,11 @@
 
 | Rol | Integrante |
 |---|---|
-| Líder de Proyecto | William Enrique Padilla Vivero |
+| Líder de Proyecto | Fabian Ricardo Orozco Infante |
 | Encargado de Hardware | [Nombre] |
 | Desarrollador de Adquisición | [Nombre] |
 | Especialista en Comunicación | [Nombre] |
-| Desarrollador Backend | [Nombre] |
+| Desarrollador Backend | William Enrique Padilla Vivero |
 | Desarrollador Frontend | [Nombre] |
 | Tester QA | [Nombre] |
 | Documentador | [Nombre] |
