@@ -10,6 +10,9 @@ __pycache__/
 # C extensions
 *.so
 
+# Pruebas locales de sensores y modulos
+flask_arduino_project/
+
 # Distribution / packaging
 .Python
 build/
