@@ -11,11 +11,11 @@
 
 ## Información del Proyecto
 
-**Estudiantes:** William Enrique Padilla Vivero, Fabian Ricardo Orozco Infante,Henry Alexander Rivera Rojas, ...
-**Docente:** Laura Mercedes Arteaga Rojas
-**Universidad:** UNIMINUTO - Universidad Minuto de Dios
-**Programa:** Ingeniería de Software
-**Semillero:** AJOLOTE
+**Estudiantes:** William Enrique Padilla Vivero, Fabian Ricardo Orozco Infante, Henry Alexander Rivera Rojas, ...
+**Docente:** Laura Mercedes Arteaga Rojas                   
+**Universidad:** UNIMINUTO - Universidad Minuto de Dios             
+**Programa:** Ingeniería de Software                
+**Semillero:** AJOLOTE            
 
 ---
 
@@ -130,6 +130,8 @@ CanSat-Ajolote/
 
 Este proyecto está bajo la licencia **MIT**.
 Consulta el archivo `LICENSE` para más información.
+
+---
 
 ### Contexto Institucional
 
