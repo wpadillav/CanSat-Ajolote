@@ -23,7 +23,7 @@ Diseñar, ensamblar y programar un **CanSat** que permita capturar variables amb
 7. **Pruebas de Campo**
 8. **Documentación y Presentación**
 
-Puedes consultar el detalle de las feses en [`/docs/fases.md`](docs/fases.md).
+Puedes consultar el detalle de las feses en [`fases.md`](fases.md).
 
 ---
 
