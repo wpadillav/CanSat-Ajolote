@@ -1,4 +1,3 @@
-# main.py
 from fastapi import FastAPI
 from routes.telemetry import router as telemetry_router
 from config import ENV
