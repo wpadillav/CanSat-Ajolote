@@ -103,6 +103,19 @@ Toda la telemetría y las imágenes se almacenarán tanto de manera local como e
 
 ```
 CanSat-Ajolote/
+├── api
+├─── .env                 # Variables de entorno API
+├─── config.py            # Configuración de MongoDB
+├─── db/                  # Conexiones a MongoDB
+│     ├── atlas.py        # Cliente Atlas
+│     └── local.py        # Cliente Local
+├─── main.py              # Punto de entrada de FastAPI
+├─── models/
+│     └── telemetry.py    # Modelo de datos (Pydantic)
+├─── requirements.txt     # Dependencias del proyecto
+├─── routes/
+│     └── telemetry.py    # Rutas de la API
+├── .env                  # Variables de entorno
 ├── flight-module/        # Código del CanSat (módulo de vuelo)
 ├── ground-station/       # Código de la estación base (receptor LoRa + backend Python)
 ├── backend/              # API REST y replicación a MongoDB
