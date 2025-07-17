@@ -12,6 +12,7 @@ class TelemetryData(BaseModel):
     humidity: Optional[float] = None      # Humedad (opcional)
     gps_lat: Optional[float] = None       # Latitud GPS (opcional)
     gps_lon: Optional[float] = None       # Longitud GPS (opcional)
+    distancia_cm: Optional[float] = None  # Distancia en centímetros (opcional)
     timestamp: Optional[datetime] = None  # Marca de tiempo (opcional)
 
     class Config:
