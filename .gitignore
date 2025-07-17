@@ -12,6 +12,11 @@ __pycache__/
 
 # Pruebas locales de sensores y modulos
 flask_arduino_project/
+tests/
+api/test_scripts/
+api/certs/
+api/hardware/
+
 
 # Distribution / packaging
 .Python
